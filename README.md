@@ -3,7 +3,7 @@ A source that alows you to generate and check discord nitro codes at same time
 # Requirements
 1. python 3
 2. pip
-3. webbrowser, requests, time, colorama, random, string
+3. requests, time, colorama, random, string
 # Installation
 1. Download the source
 2. pip install -r requirements.txt
