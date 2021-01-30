@@ -1,2 +1,17 @@
 # discord-fast-nitro
 A source that alows you to generate and check discord nitro codes at same time
+# Requirements
+1. python 3
+2. pip
+3. webbrowser, requests, time, colorama, random, string
+# Installation
+1. Download the source
+2. pip install -r requirements.txt
+3. python gencheck.py
+4. enter amount less than 99999
+# Disaclaimer
+⚠️ This program is only for educational aspects ⚠️
+# Information
+Discord: Pooria#2177
+Email: virtualgamingcompany@gmail.com
+Website: https://virtualgaming.ir
