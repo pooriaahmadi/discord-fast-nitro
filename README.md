@@ -1,5 +1,7 @@
 # discord-fast-nitro
 A source that alows you to generate and check discord nitro codes at same time
+# Discord Server
+https://discord.gg/F6MV4Pu5mu
 # Requirements
 1. python 3
 2. pip
@@ -12,6 +14,6 @@ A source that alows you to generate and check discord nitro codes at same time
 # Disaclaimer
 ⚠️ This program is only for educational aspects ⚠️
 # Information
-Discord: Pooria#2177
-Email: virtualgamingcompany@gmail.com
-Website: https://virtualgaming.ir
+1.Discord: Pooria#2177
+2.Email: virtualgamingcompany@gmail.com
+3.Website: https://virtualgaming.ir
