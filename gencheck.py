@@ -22,7 +22,7 @@ print("Wait, Generating for you!")
 nitroList = []
 for n in range(int(input('Input How Many Codes to Generate and Check: '))):
   code = ""
-  for i in range(24):
+  for i in range(16):
     code = f"{code}{random.choice(string.ascii_uppercase + string.digits + string.ascii_lowercase)}"
   nitroList.append(code)
 print("Codes Generated, Now time for checking!")
